@@ -9,3 +9,4 @@ resource "aws_instance" "testec2" {
   tags = {
     Name = "tf-ec2"
   }
+}
