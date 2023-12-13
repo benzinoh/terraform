@@ -1,0 +1,5 @@
+HTTPS = "443"
+APIs = "8080"
+prod_apis = "8443"
+DEV_vpc = "172.31.0.0/16"
+splunk = "8088"
