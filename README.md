@@ -25,8 +25,10 @@ Ensure that you have the following prerequisites before using this Terraform con
 
 1. Clone this repository:
 
+    ```bash
     git clone https://github.com/benzinoh/terraform.git
     cd eip
+    ```
 
 2. Customize the `terraform.tfvars` file with your specific configurations.
 
